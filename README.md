@@ -1,0 +1,2 @@
+# Segara
+Lab2
