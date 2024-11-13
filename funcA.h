@@ -3,9 +3,12 @@
 
 //FuncA class contains methods to calculate cosine using Taylor series
 //The parameter n indicates how many terms of the series to compute
+
 class FuncA {
 	public:
 		double calculateCosine(double x, int n);
 };
+
+double factorial(int num);
 
 #endif
