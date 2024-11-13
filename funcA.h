@@ -8,4 +8,6 @@ class FuncA {
 		double calculateCosine(double x, int n);
 };
 
+double factorial(int num);
+
 #endif
