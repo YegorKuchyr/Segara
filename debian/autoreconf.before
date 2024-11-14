@@ -1,0 +1,14 @@
+6265c7c69e309b460bde4b16506d9908  ./funcA.h
+a6e90a4ae058a35202a75e2eaaf88d83  ./aclocal.m4
+e5c05485ac335a021632751a2b12ff66  ./cosinecalculator-1.0.tar.gz
+9e11f1af601cfe4a04b2a20d05d82231  ./README.md
+6ecafe15a6088eb7a2f4f2aadbb240ce  ./depcomp
+ef6f761f948a394a1a5ef99f155dd7c0  ./configure
+c4466f567e463f29f37672ea2f00563e  ./Makefile.in
+455e469e4a25925cc1c22df518e9d0a3  ./Makefile.am
+086b8da5a251be943f06d3a927bbe60e  ./missing
+2b61ce16bc0d8f33d40ce4c8bc5e90cf  ./.gitignore
+b090c5891571c820e91d345a9551af44  ./install-sh
+4680960afc0bcb875aeb6886db114b91  ./configure.ac
+b24df113721fb6d68266e5eeb5cae1a0  ./funcA.cpp
+cdffb30ca774a4db080729f2222bfc53  ./main.cpp
