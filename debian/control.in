@@ -1,0 +1,11 @@
+Source: main
+Section: utils
+Priority: optional
+Maintainer: Your Name <broniga3006@gmail.com>
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.5.0
+
+Package: main
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Example C++ program
